@@ -1,0 +1,20 @@
+{
+  "name": "typeorm-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.0",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.2.1",
+    "typeorm": "^0.2.25",
+    "typescript": "^3.9.5"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
