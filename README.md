@@ -74,7 +74,7 @@ const connection = {
   },
 
   async close(){
-    await getConnection().close()codcd 
+    await getConnection().close()
   },
 
   async clear(){
