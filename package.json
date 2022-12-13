@@ -9,7 +9,7 @@
     "ts-jest": "^26.1.0"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pg": "^8.2.1",
     "typeorm": "^0.2.25",
     "typescript": "^3.9.5"
